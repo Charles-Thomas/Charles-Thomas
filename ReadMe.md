@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 Im currently working on learning Javascript <br>💻 My Favorite project is my letter to Santa-Ai project <br>🎷 I played saxophone for 4 years <br>📚 The book Im currently hooked on is The Phoenix Project by Gene Kim, Kevin Behr, George Spafford
+CS student | Backend-focused | Java, Python, OpenCV | Building cool things with AI + vision
 
 
 ## 🌐 Socials:
